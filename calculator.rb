@@ -1,4 +1,4 @@
 # Add your variables here
 first_number = 5
 second_number = 1
-5 + 1 = 6
+sum = 5 + 1 = 6
